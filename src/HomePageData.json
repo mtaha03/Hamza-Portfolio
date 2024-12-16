@@ -1,0 +1,428 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.jpg",
+    "title": "Hamza <br /> Hanif",
+    "subTitle": "Hello, I’m",
+    "designation": "Lead QA Engineer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Hamza Hanif",
+    "subtitle": "All my skills in this field are showcased here",
+    "text": "Detail-oriented Lead QA Engineer with over 9 years of extensive experience in ensuring the quality and functionality of diverse digital products and platforms Proficient in a wide range of tools including JIRA, TestRail, Postman, and various automation frameworks.",
+    "skills": [
+      {
+        "title": "Manual Testing",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Automation Testing",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "API Testing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "SIT & UAT Testing",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Database Testing",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "GUI Testing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.svg",
+        "title": "Mosaik",
+        "text": "Led QA for multiple product lines, specializing in property management and real estate applications.",
+        "link" : "https://www.mosaik.io/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.svg",
+        "title": "W1tty",
+        "text": "Managing and testing functionalities related to beneficiaries management, money transfers, and bill payments.",
+        "link" : "https://www.w1tty.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "AION Digital",
+        "text": "Handled card issuance, processing, and digital banking, including IBAN-based transactions.",
+        "link" : "https://aiondigital.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.svg",
+        "title": "Retailo technologies",
+        "text": "Led a team to perform API, database, GUI, and end-to-end testing for mobile apps and web portals.",
+        "link" : "https://retailo.co/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Jeeny",
+        "text": "Tested APIs, databases, GUIs, core functions, and modules for logistics and Google Maps integration.",
+        "link" : "https://www.jeeny.me/en/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.webp",
+        "title": "Slashnext",
+        "text": "Specialized in comprehensive back-end QA for websites, portals, browser extensions, and mobile apps.",
+        "link" : "https://slashnext.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/icon7.png",
+        "title": "GenITeam",
+        "text": "Tested games on Android, iOS, and Kindle, focusing on UI/UX and gameplay mechanics.",
+        "link" : "https://www.geniteam.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/icon8.avif",
+        "title": "Careem(Uber)",
+        "text": "Managed QA for Careem's web products across multiple portals, ensuring high quality standards.",
+        "link" : "https://www.careem.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/icon9.png",
+        "title": "VentureDive",
+        "text": "Worked on projects for Careem, a leading ride-hailing service in the MENA region",
+        "link" : "https://www.venturedive.com/",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "I am highly skilled in ensuring software quality and reliability through a diverse range of tools and methodologies. With expertise in API testing using Postman and UI automation with Cypress, I deliver robust and maintainable test solutions. My proficiency extends to mobile application testing with Appium, and performance testing using JMeter, enabling seamless functionality and optimal performance of applications.",
+    "skills": [
+      {
+        "title": "Manual Testing",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Automation Testing",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "API Testing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "SIT & UAT Testing",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Database Testing",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "GUI Testing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.webp",
+        "link" : "https://apps.apple.com/us/app/virtual-reality-360/id1579274717",
+        "title": "Virtual Reality 360°",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.webp",
+        "link" : "https://apps.apple.com/us/app/wim-messenger/id1388718354",
+        "title": "Wim messenger",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.webp",
+        "link" : "https://apps.apple.com/us/app/aesthetic-kit-icons-themes/id1533330948",
+        "title": "Aesthetic kit: icons & themes",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.webp",
+        "link" : "https://apps.apple.com/us/app/auto-text-paste/id1571464033",
+        "title": "Auto Text Paste",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.webp",
+        "link" : "https://apps.apple.com/us/app/boost-cleaner-clean-up-smart/id1475887456",
+        "title": "Boost Cleaner ",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.webp",
+        "link" : "https://apps.apple.com/us/app/fonts-keyboard-font-art/id1490060871",
+        "title": "Fonts: Keyboard & Font Art",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio7.webp",
+        "link" : "https://apps.apple.com/us/app/mymood-ai-ai-photo-generator/id1669952628",
+        "title": "MyMood AI",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio8.webp",
+        "link" : "https://apps.apple.com/us/app/sadapay-money-made-simple/id1543848524",
+        "title": "SadaPay",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio9.webp",
+        "link" : "https://apps.apple.com/us/app/tiktok/id835599320",
+        "title": "TikTok",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Khuram Asghar",
+        "designation": "SQA Expert",
+        "text": "I have had the pleasure of working closely with Hamza as a Software Quality Assurance Engineer, and I can confidently say that he is an invaluable asset to any team."
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Roman Voronyi",
+        "designation": "Engineering Management",
+        "text": "Hamza is a cooperative guy with high attention to details. He always carefully investigates requirements and tries to cover all possible edgecases during testing."
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Farid Arshad",
+        "designation": "Manager QA Backend",
+        "text": "I have worked with many professionals throughout my career, but Hamza was a unique one to work. His work always speaks about his strengths and dedication."
+      },
+      {
+        "imgLink": "/images/client/client4.gif",
+        "title": "Zehra Naqvi",
+        "designation": "SQA Lead at DIFX",
+        "text": "I have worked with many professionals throughout my career, but Hamza was a unique one to work. His work always speaks about his strengths and dedication."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Lead QA Engineer",
+        "duration": "Jan 2024 - Present",
+        "subTitle": "Mosaik , Remote",
+        "link" : "https://www.mosaik.io/",
+        "text": "Led the QA efforts for multiple product lines, focusing on property management solutions and real estate applications"
+      },
+      {
+        "title": "Senior QA Engineer",
+        "duration": "Jan 2016 - December 2019",
+        "subTitle": "W1tty , Remote - UK",
+        "link" : "https://www.w1tty.com/",
+        "text": "Managing and testing functionalities related to beneficiaries management, money transfers, and bill payments."
+      },
+      {
+        "title": "Senior QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "AION Digital , Remote - Bahrain",
+        "link" : "https://aiondigital.com/",
+        "text": "Managed card issuance, processing, and various digital banking activities, including financial transactions via IBAN and bank account numbers."
+      },
+      {
+        "title": "Lead Software QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Retailo technologies  , Lahore - PK",
+        "link" : "https://retailo.co/",
+        "text": "Led a team of 4-5 colleagues, conducting API, database, GUI, core functionality regression, and sanity testing. Responsible for end-to-end testing of mobile apps (Android and iOS) and web portals"
+      },      
+      {
+        "title": "Senior QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Jeeny , Lahore - PK",
+        "link" : "https://www.jeeny.me/en/",
+        "text": "Conducted API, database, GUI, core functionality, regression, and sanity testing with a focus on driver/passenger modules, delivery logistics, and Google Maps integration."
+      },      
+      {
+        "title": "Senior QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Slashnext , Lahore - PK",
+        "link" : "https://slashnext.com/",
+        "text": "Specialized in back-end QA across diverse platforms including websites, portals, browser extensions, and mobile apps"
+      },
+      {
+        "title": "Software QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "GenITeam , Lahore - PK",
+        "link" : "https://www.geniteam.com/",
+        "text": "onducted comprehensive game testing for Android, iOS, and Amazon Kindle platforms, evaluating UI/UX, gameplay mechanics, and features."
+      },
+      {
+        "title": "Senior QA Engineer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Careem(Uber)  , Lahore - PK",
+        "link" : "https://www.careem.com/",
+        "text": "Managed QA for Careem's web products across multiple portals, ensuring high quality standards."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "M.Sc. Computer Science",
+        "duration": "2013 - 2015",
+        "subTitle": "Punjab University College of information and technology",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "SEO Fundamentals Exam",
+        "duration": "2010 - 2014",
+        "subTitle": "Semrush",
+        "link" : "https://static.semrush.com/academy-prod/certificate/6665346/SEMrush-Academy-Certificate-5ab80105d5225b89e835c34ed42606f4501405792f2ff6a26aabb4732efec1f9.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Here you can contect me. Don’t hesitate to get in touch I’m here to help!"
+  },
+  "socialData": [
+    {
+      "icon": "Google Material Icons",
+      "title": "Gmail",
+      "link": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjQCvzsddSrPNqHzQcWWXNMxCrQkWkhpGxBMGHgSBfZphDKzmQzNfPxsHcLQMkGjRZsGg"
+    },
+    {
+      "icon": "whatsapp",
+      "title": "WhatsApp",
+      "link": "https://wa.me/+923068878279?text=hi hamza"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/hamza-hanif/ target=_blank"
+    }
+  ]
+}
