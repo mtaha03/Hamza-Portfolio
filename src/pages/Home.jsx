@@ -6,11 +6,14 @@ import Resume from '../components/Resume/ResumeSection';
 import ReviewSection from '../components/Review/ReviewSection';
 import Contact from "../components/Contact/Contact";
 import PortfolioSection from '../components/Protfolio/PortfolioSection';
+import Header from '../components/Header/Header';
 
 const Home = () => {
-  const { heroData, aboutData, serviceData, portfolioData, resumeData, reviewData, contactData, socialData } = data;
+  const { headerData ,heroData, aboutData, serviceData, portfolioData, resumeData, reviewData, contactData, socialData } = data;
+  console.log("Header Data is :  ",headerData);
   return (
     <>
+      <Header data={headerData} data-aos="fade-right" />
       <Hero data={heroData} socialData={socialData} data-aos="fade-right" />
       <About data={aboutData} data-aos="fade-right" />
       <Iconbox data={serviceData} data-aos="fade-right" />

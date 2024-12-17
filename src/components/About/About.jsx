@@ -3,7 +3,7 @@ import './About.scss';
 import SectionHeading from '../SectionHeading/SectionHeading';
 
 const About = ({ data }) => {
-  const { imgLink, title, subtitle, text,  cvPdf, skills } = data;
+  const { imgLink, title, subtitle, text, skills } = data;
   
   return (
     <section id="about" className="st-about-wrap ">
@@ -53,7 +53,6 @@ const About = ({ data }) => {
               ))}
             </div>
                   <div className="st-text-block-btn">
-                    <a className='st-btn st-style1 st-color1' href={cvPdf} download>Download CV</a>
                   </div>
                 </div>
               </div>

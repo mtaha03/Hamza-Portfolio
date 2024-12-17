@@ -1,4 +1,9 @@
 {
+
+  "headerData": {
+    "cvPdf": "/images/Resume.pdf",
+    "text" : "ABC"
+  },
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
@@ -8,7 +13,6 @@
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
-    "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Hamza Hanif",
     "subtitle": "All my skills in this field are showcased here",
     "text": "Detail-oriented Lead QA Engineer with over 9 years of extensive experience in ensuring the quality and functionality of diverse digital products and platforms Proficient in a wide range of tools including JIRA, TestRail, Postman, and various automation frameworks.",
@@ -410,7 +414,7 @@
   },
   "socialData": [
     {
-      "icon": "Google Material Icons",
+      "icon": "gmail",
       "title": "Gmail",
       "link": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjQCvzsddSrPNqHzQcWWXNMxCrQkWkhpGxBMGHgSBfZphDKzmQzNfPxsHcLQMkGjRZsGg"
     },

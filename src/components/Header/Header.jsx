@@ -4,7 +4,12 @@ import PropTypes from 'prop-types';
 import { Link as ScrollLink } from 'react-scroll';
 import { useState } from 'react';
 
-const Header = () => {
+const Header = ({ data = {} }) => {
+
+  const { cvPdf } = data;
+
+
+
   const [mobileToggle, setMobileToggle] = useState(false);
 
   const handleToggleMenu = () => {
@@ -24,7 +29,7 @@ const Header = () => {
                 <ul className="st-nav-list st-onepage-nav" style={{ display: `${mobileToggle ? 'block' : 'none'}` }}>
                   <li><ScrollLink to="about" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>About</ScrollLink></li>
                   <li><ScrollLink to="experience" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Experience</ScrollLink></li>
-                  <li><ScrollLink to="portfolio" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Project</ScrollLink></li>
+                  <li><ScrollLink to="portfolio" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Portfolio</ScrollLink></li>
                   <li><ScrollLink to="review" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Reviews</ScrollLink></li>
                   <li><ScrollLink to="education" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Education</ScrollLink></li>
                   <li><ScrollLink to="contact" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Contact</ScrollLink></li>
@@ -33,11 +38,7 @@ const Header = () => {
                   <span></span>
                 </div>
                 <div className="sp-phone">
-                  <svg viewBox="0 0 513.64 513.64">
-                    <path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z" />
-                  </svg>
-                  <div className="sp-phone-no">+92 3068878279</div>
-                </div>
+                <a className='st-btn st-style1 st-color1' href={cvPdf} download>Download CV</a>                </div>
               </div>
             </div>
           </div>
