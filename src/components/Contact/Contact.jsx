@@ -32,6 +32,7 @@ const Contact = ({ data, socialData }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    alert('Button is clicked');
 
     emailjs
       .send(
