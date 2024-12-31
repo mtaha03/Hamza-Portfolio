@@ -46,7 +46,7 @@ const About = ({ data }) => {
                     </div>
                   </div>
                   <div className="st-progressbar" data-progress="95">
-                    <div className="st-progressbar-in "></div>
+                    <div className="st-progressbar-in" style={{width:`${element.progress}`}} ></div>
                   </div>
                   <div className="st-height-b30 st-height-lg-b20"></div>
                 </div>

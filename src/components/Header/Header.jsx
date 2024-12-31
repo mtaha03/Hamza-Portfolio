@@ -21,7 +21,7 @@ const Header = ({ data = {} }) => {
       <div className="st-main-header">
         <div className="container">
           <div className="st-main-header-in">
-            <div className="st-main-header-left">
+            <div className="st-main-header-left " style={{marginLeft: '-50px'}}>
             <ScrollLink to="home" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}><img src="/images/logo.png" alt="Davis" /></ScrollLink>
             </div>
             <div className="st-main-header-right">

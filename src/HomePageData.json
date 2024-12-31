@@ -25,8 +25,8 @@
         "delay": "200"
       },
       {
-        "title": "Automation Testing",
-        "progress": "85%",
+        "title": "GUI Testing",
+        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
@@ -53,8 +53,8 @@
         "delay": "600"
       },
       {
-        "title": "GUI Testing",
-        "progress": "90%",
+        "title": "Automation Testing",
+        "progress": "60%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -394,15 +394,13 @@
       {
         "title": "M.Sc. Computer Science",
         "duration": "2013 - 2015",
-        "subTitle": "Punjab University College of information and technology",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "subTitle": "Punjab University College of Information and Technology"
       },
       {
         "title": "SEO Fundamentals Exam",
         "duration": "2010 - 2014",
         "subTitle": "Semrush",
-        "link" : "https://static.semrush.com/academy-prod/certificate/6665346/SEMrush-Academy-Certificate-5ab80105d5225b89e835c34ed42606f4501405792f2ff6a26aabb4732efec1f9.png",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "link" : "https://static.semrush.com/academy-prod/certificate/6665346/SEMrush-Academy-Certificate-5ab80105d5225b89e835c34ed42606f4501405792f2ff6a26aabb4732efec1f9.png"
       }
     ]
   },

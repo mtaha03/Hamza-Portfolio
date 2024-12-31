@@ -5,11 +5,7 @@ const Footer = () => {
   const currentYear = currentDate.getFullYear();
   return (
     <footer>
-      <div className="container">
-        <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Designed by Taha Muhammad. All right reserved.</div>
-        </div>
-      </div>
+
     </footer>
   )
 }
